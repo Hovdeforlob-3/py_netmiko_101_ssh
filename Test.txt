@@ -1,0 +1,2 @@
+hostname From_file
+banner motd "un her " kan
